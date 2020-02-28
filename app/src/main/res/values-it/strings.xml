@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alimenti Tipici</string>
+    <string name="paises">Paese</string>
+    <string name="comida">Lasagne</string>
+    <string name="nomePais">Italia</string>
+</resources>

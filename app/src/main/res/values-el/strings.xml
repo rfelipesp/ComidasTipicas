@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Τυπικά τρόφιμα</string>
+    <string name="paises">Χώρα</string>
+    <string name="comida">Ελληνική σαλάτα</string>
+    <string name="nomePais">Ελλάδα</string>
+</resources>

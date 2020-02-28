@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">典型的食物</string>
+    <string name="paises">國家</string>
+    <string name="comida">糖醋里脊</string>
+    <string name="nomePais">中國</string>
+</resources>

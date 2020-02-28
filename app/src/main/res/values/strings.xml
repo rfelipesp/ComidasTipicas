@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comidas Típicas</string>
+    <string name="paises">País</string>
+    <string name="comida">Feijoada</string>
+    <string name="nomePais">Brasil</string>
+</resources>
